@@ -3,7 +3,7 @@
 A dynamic and responsive eCommerce web application that provides a seamless online shopping experience. This project features product listings, a shopping cart, user authentication, and secure checkout functionality.
 
 🔗 Live Demo
-https://surabhikn.github.io/Ecommerce/
+https://e-commerce-nine-topaz.vercel.app/
 
 📌 Features
 ✅ Product Listing: Browse and search for products 🔍
